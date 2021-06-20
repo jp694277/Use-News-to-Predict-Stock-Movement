@@ -1,2 +1,3 @@
 # Use-News-to-Predict-Stock-Movement-
-Use News to Predict Stock Movement 
+
+RCNN, XGBoost, LGBM
